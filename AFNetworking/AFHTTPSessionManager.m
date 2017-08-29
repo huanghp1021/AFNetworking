@@ -20,14 +20,11 @@
 // THE SOFTWARE.
 
 #import "AFHTTPSessionManager.h"
-
 #import "AFURLRequestSerialization.h"
 #import "AFURLResponseSerialization.h"
-
 #import <Availability.h>
 #import <TargetConditionals.h>
 #import <Security/Security.h>
-
 #import <netinet/in.h>
 #import <netinet6/in6.h>
 #import <arpa/inet.h>
